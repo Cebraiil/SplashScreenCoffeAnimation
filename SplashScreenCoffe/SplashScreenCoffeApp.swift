@@ -2,7 +2,7 @@
 //  SplashScreenCoffeApp.swift
 //  SplashScreenCoffe
 //
-//  Created by Ayman on 18.01.2023.
+//  by Swiftui.app on 18.01.2023.
 //
 
 import SwiftUI
