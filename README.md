@@ -1,2 +1,1 @@
-# SplashScreenCoffeAnimation
-Splash Screen Coffe Animation
+# Splash Screen Coffe Animation
